@@ -3,9 +3,16 @@ I LOVE MODDING DEADLOCK
 # This Github Repo Hopes to Act as a Guide to All Things Modding Deadlock Related.
 
 # Installing Mods
-[]()
+### Installing Mods Manually
+### Installing Mods Using a Mod Manager
+#### List of Mod managers
+##### Mod Managers Made Without Generative AI
+##### Mod Managers Made With Generative AI
+- Grimoire
+- Deadlock Mod Manager
 
 # Prerequsites
+## Enabling Mod Support
 ## Deadlock's Files
 ### Extracting the Files From The Game
 - Extracting the files with Source2Viewer
@@ -17,6 +24,9 @@ I LOVE MODDING DEADLOCK
 ### Source 2 Development
 - Source2Viewer
 - CSDK12
+- CSWIN64
+- CS2 Tools
+- Dota 2 Tools
 - Dotryen's Deadlock Tools
 ### Software For Creating and Editing Files 
 #### Audio Modification
