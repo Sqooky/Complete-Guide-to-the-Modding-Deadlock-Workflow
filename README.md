@@ -42,3 +42,13 @@ I LOVE MODDING DEADLOCK
 #### 3D Models
 - Blender
 
+# Creating Your First Mod
+## How to create a(n)...
+- Audio mod
+- Texture Replacement
+- Ui mod
+- Model Replacement Soul Urn
+- Model Replacement Character
+- Packaging your mod
+- 
+
