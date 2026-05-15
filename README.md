@@ -46,6 +46,7 @@ I LOVE MODDING DEADLOCK
 ## How to create a(n)...
 - Audio mod
 - Texture Replacement
+- Image Replacement (Character Portrait)
 - Ui mod
 - Model Replacement Soul Urn
 - Model Replacement Character
